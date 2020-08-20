@@ -1,0 +1,10 @@
+C:\Users\DELVECCHIO\source\repos\TestePrenchimentoDataGridView\bin\Debug\TestePrenchimentoDataGridView.exe.config
+C:\Users\DELVECCHIO\source\repos\TestePrenchimentoDataGridView\bin\Debug\TestePrenchimentoDataGridView.exe
+C:\Users\DELVECCHIO\source\repos\TestePrenchimentoDataGridView\bin\Debug\TestePrenchimentoDataGridView.pdb
+C:\Users\DELVECCHIO\source\repos\TestePrenchimentoDataGridView\obj\Debug\TestePrenchimentoDataGridView.csprojAssemblyReference.cache
+C:\Users\DELVECCHIO\source\repos\TestePrenchimentoDataGridView\obj\Debug\TestePrenchimentoDataGridView.Form1.resources
+C:\Users\DELVECCHIO\source\repos\TestePrenchimentoDataGridView\obj\Debug\TestePrenchimentoDataGridView.Properties.Resources.resources
+C:\Users\DELVECCHIO\source\repos\TestePrenchimentoDataGridView\obj\Debug\TestePrenchimentoDataGridView.csproj.GenerateResource.cache
+C:\Users\DELVECCHIO\source\repos\TestePrenchimentoDataGridView\obj\Debug\TestePrenchimentoDataGridView.csproj.CoreCompileInputs.cache
+C:\Users\DELVECCHIO\source\repos\TestePrenchimentoDataGridView\obj\Debug\TestePrenchimentoDataGridView.exe
+C:\Users\DELVECCHIO\source\repos\TestePrenchimentoDataGridView\obj\Debug\TestePrenchimentoDataGridView.pdb

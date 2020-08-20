@@ -1,0 +1,10 @@
+C:\Users\DELVECCHIO\source\repos\InclusaoItens\bin\Debug\InclusaoItens.exe.config
+C:\Users\DELVECCHIO\source\repos\InclusaoItens\bin\Debug\InclusaoItens.exe
+C:\Users\DELVECCHIO\source\repos\InclusaoItens\bin\Debug\InclusaoItens.pdb
+C:\Users\DELVECCHIO\source\repos\InclusaoItens\obj\Debug\InclusaoItens.csprojAssemblyReference.cache
+C:\Users\DELVECCHIO\source\repos\InclusaoItens\obj\Debug\InclusaoItens.Form1.resources
+C:\Users\DELVECCHIO\source\repos\InclusaoItens\obj\Debug\InclusaoItens.Properties.Resources.resources
+C:\Users\DELVECCHIO\source\repos\InclusaoItens\obj\Debug\InclusaoItens.csproj.GenerateResource.cache
+C:\Users\DELVECCHIO\source\repos\InclusaoItens\obj\Debug\InclusaoItens.csproj.CoreCompileInputs.cache
+C:\Users\DELVECCHIO\source\repos\InclusaoItens\obj\Debug\InclusaoItens.exe
+C:\Users\DELVECCHIO\source\repos\InclusaoItens\obj\Debug\InclusaoItens.pdb

@@ -1,0 +1,11 @@
+C:\Users\DELVECCHIO\source\repos\Passagens\Hosting\bin\Debug\Hosting.exe.config
+C:\Users\DELVECCHIO\source\repos\Passagens\Hosting\bin\Debug\Hosting.exe
+C:\Users\DELVECCHIO\source\repos\Passagens\Hosting\bin\Debug\Hosting.pdb
+C:\Users\DELVECCHIO\source\repos\Passagens\Hosting\bin\Debug\Passagens.dll
+C:\Users\DELVECCHIO\source\repos\Passagens\Hosting\bin\Debug\Passagens.pdb
+C:\Users\DELVECCHIO\source\repos\Passagens\Hosting\bin\Debug\Passagens.dll.config
+C:\Users\DELVECCHIO\source\repos\Passagens\Hosting\obj\Debug\Hosting.csprojAssemblyReference.cache
+C:\Users\DELVECCHIO\source\repos\Passagens\Hosting\obj\Debug\Hosting.csproj.CoreCompileInputs.cache
+C:\Users\DELVECCHIO\source\repos\Passagens\Hosting\obj\Debug\Hosting.csproj.CopyComplete
+C:\Users\DELVECCHIO\source\repos\Passagens\Hosting\obj\Debug\Hosting.exe
+C:\Users\DELVECCHIO\source\repos\Passagens\Hosting\obj\Debug\Hosting.pdb
