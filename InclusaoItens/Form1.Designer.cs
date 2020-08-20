@@ -31,16 +31,16 @@
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
-            this.txtProduto = new System.Windows.Forms.TextBox();
             this.txtQuantidade = new System.Windows.Forms.TextBox();
             this.txtPreco = new System.Windows.Forms.TextBox();
             this.btnAddItem = new System.Windows.Forms.Button();
             this.dgv = new System.Windows.Forms.DataGridView();
-            this.lblTotal = new System.Windows.Forms.Label();
             this.ClItem = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.ClQtd = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.ClPreco = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.ClTotalItem = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.lblTotal = new System.Windows.Forms.Label();
+            this.cbProduto = new System.Windows.Forms.ComboBox();
             ((System.ComponentModel.ISupportInitialize)(this.dgv)).BeginInit();
             this.SuspendLayout();
             // 
@@ -73,13 +73,6 @@
             this.label3.Size = new System.Drawing.Size(76, 13);
             this.label3.TabIndex = 2;
             this.label3.Text = "Quantidade:";
-            // 
-            // txtProduto
-            // 
-            this.txtProduto.Location = new System.Drawing.Point(81, 13);
-            this.txtProduto.Name = "txtProduto";
-            this.txtProduto.Size = new System.Drawing.Size(275, 20);
-            this.txtProduto.TabIndex = 3;
             // 
             // txtQuantidade
             // 
@@ -119,16 +112,6 @@
             this.dgv.Size = new System.Drawing.Size(346, 164);
             this.dgv.TabIndex = 8;
             // 
-            // lblTotal
-            // 
-            this.lblTotal.AutoSize = true;
-            this.lblTotal.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblTotal.Location = new System.Drawing.Point(7, 290);
-            this.lblTotal.Name = "lblTotal";
-            this.lblTotal.Size = new System.Drawing.Size(55, 17);
-            this.lblTotal.TabIndex = 9;
-            this.lblTotal.Text = "Total: ";
-            // 
             // ClItem
             // 
             this.ClItem.DataPropertyName = "Produto";
@@ -157,17 +140,35 @@
             this.ClTotalItem.Name = "ClTotalItem";
             this.ClTotalItem.Width = 60;
             // 
+            // lblTotal
+            // 
+            this.lblTotal.AutoSize = true;
+            this.lblTotal.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblTotal.Location = new System.Drawing.Point(7, 290);
+            this.lblTotal.Name = "lblTotal";
+            this.lblTotal.Size = new System.Drawing.Size(55, 17);
+            this.lblTotal.TabIndex = 9;
+            this.lblTotal.Text = "Total: ";
+            // 
+            // cbProduto
+            // 
+            this.cbProduto.FormattingEnabled = true;
+            this.cbProduto.Location = new System.Drawing.Point(81, 12);
+            this.cbProduto.Name = "cbProduto";
+            this.cbProduto.Size = new System.Drawing.Size(275, 21);
+            this.cbProduto.TabIndex = 10;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(369, 318);
+            this.ClientSize = new System.Drawing.Size(369, 317);
+            this.Controls.Add(this.cbProduto);
             this.Controls.Add(this.lblTotal);
             this.Controls.Add(this.dgv);
             this.Controls.Add(this.btnAddItem);
             this.Controls.Add(this.txtPreco);
             this.Controls.Add(this.txtQuantidade);
-            this.Controls.Add(this.txtProduto);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
@@ -184,7 +185,6 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.TextBox txtProduto;
         private System.Windows.Forms.TextBox txtQuantidade;
         private System.Windows.Forms.TextBox txtPreco;
         private System.Windows.Forms.Button btnAddItem;
@@ -194,6 +194,7 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn ClQtd;
         private System.Windows.Forms.DataGridViewTextBoxColumn ClPreco;
         private System.Windows.Forms.DataGridViewTextBoxColumn ClTotalItem;
+        private System.Windows.Forms.ComboBox cbProduto;
     }
 }
 
